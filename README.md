@@ -2,11 +2,11 @@
 
 Projeto de modulador de voz utilizando microcontrolador ARM STM32 Cortex-M3, vulgo "BluePill"
 
-AUTORES
+INTEGRANTES
 
-  ÍTALO VIANA SEVERO
-  JOÃO LUCA RIPARDO
-  JONAS ALBUQUERQUE ARAÚJO
+  Ítalo Viana Severo   
+  João Luca Ripardo Teixeira Costa   
+  Jonas Albuquerque Araújo
 
 
 MOTIVAÇÃO
