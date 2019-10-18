@@ -1,14 +1,15 @@
 # El Profesor - Modulador de voz
-Projeto Final da disciplina de Sistemas Microprocessados
 
-ÍTALO VIANA SEVERO
+Projeto de modulador de voz utilizando microcontrolador ARM STM32 Cortex-M3, vulgo "BluePill"
 
-JOÃO LUCA RIPARDO
+AUTORES
 
-JONAS ALBUQUERQUE ARAÚJO
+  ÍTALO VIANA SEVERO
+  JOÃO LUCA RIPARDO
+  JONAS ALBUQUERQUE ARAÚJO
 
 
-INTRODUÇÃO
+MOTIVAÇÃO
 
 Desde um efeito engraçado no áudio de um vídeo até um disfarce para preservar a identidade de partes em uma conversa, a modulação de voz gera transformações interessantes e convenientes em um determinado sinal. A modulação na voz pode funcionar como uma camada extra na segurança de um canal de comunicação, mais especificamente quando existe o risco de um dos interlocutores ser identificado pelo timbre de sua voz. Talvez o exemplo mais claro seja o de testemunhas de um crime, que utilizam de tal modificação em sua voz para que os criminosos não tenham acesso a sua identidade. Dessa forma, viemos com a proposta de um sistema com a capacidade de captar e transmitir a voz modulada em tempo real.
 
