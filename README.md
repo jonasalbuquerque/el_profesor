@@ -1,6 +1,6 @@
 # El Profesor - Modulador de voz
 
-Projeto de modulador de voz utilizando microcontrolador ARM STM32 Cortex-M3, vulgo "BluePill"
+Projeto de modulador de voz utilizando microcontrolador "BluePill" ARM STM32F103
 
 INTEGRANTES
 
